@@ -343,6 +343,42 @@
         },
         "timeSpent": 143
       }
+    ],
+    "src/game/pathfinding/dijkstra.ts.git": [
+      {
+        "date": "2026-05-08T14:17:25.701Z",
+        "user": {
+          "name": "Levente Botos",
+          "email": "botos.levente2007@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2026-05-08T14:18:04.136Z",
+        "user": {
+          "name": "Levente Botos",
+          "email": "botos.levente2007@gmail.com"
+        },
+        "timeSpent": 38
+      }
+    ],
+    "src/workers/railPreprocess.worker.ts.git": [
+      {
+        "date": "2026-05-08T14:19:27.541Z",
+        "user": {
+          "name": "Levente Botos",
+          "email": "botos.levente2007@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-05-08T14:19:35.222Z",
+        "user": {
+          "name": "Levente Botos",
+          "email": "botos.levente2007@gmail.com"
+        },
+        "timeSpent": 8
+      }
     ]
   }
 }
